@@ -1,0 +1,13 @@
+.pokemon-types {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    list-style-type: none;
+}
+
+.pokemon-type {
+margin: 10px;
+padding: 10px;
+border: 2px solid violet;
+border-radius: 5px;
+}
